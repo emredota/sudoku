@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sudoku
 
 A Sudoku solver, puzzle generator and terminal game written in plain Python 3.9+ (no dependencies).
@@ -39,3 +40,7 @@ python -m unittest -v
 - A GUI (tkinter) or web version
 - Human-style solving techniques (naked singles, pairs, X-wing)
 - Benchmarks comparing solving strategies
+=======
+# sudoku
+Deniyoruz bisiler
+>>>>>>> 0aa5e57ad86159743593b968209f750f51638196
